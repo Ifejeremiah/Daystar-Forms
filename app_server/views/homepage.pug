@@ -1,0 +1,9 @@
+extends layouts/layout
+
+block content
+  h1= title
+  p Welcome to homepage
+
+  ul 
+    each val in data
+      li= val

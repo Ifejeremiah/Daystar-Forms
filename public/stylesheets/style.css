@@ -1,0 +1,16 @@
+@import"https://fonts.googleapis.com/css2?family=Raleway:wght@400..900&display=swap";
+
+* {
+  box-sizing: border-box;
+  outline: none;
+  border: 0;
+  padding: 0;
+  color: inherit;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
