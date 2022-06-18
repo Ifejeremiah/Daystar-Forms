@@ -7,6 +7,7 @@ module.exports = {
   Facility: require('../models/facility.model'),
   Appointment: require('../models/appointment.model'),
   Naming: require('../models/naming.model'),
+  PostMarital: require('../models/post-marital.model'),
   isValidId
 };
 

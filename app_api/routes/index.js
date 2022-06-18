@@ -13,6 +13,10 @@ const routes = [
   {
     route: '/child-naming',
     path: require('./naming.route')
+  },
+  {
+    route: '/post-marital',
+    path: require('./post-marital.route')
   }
 ]
 
